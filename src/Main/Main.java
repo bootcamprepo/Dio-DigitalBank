@@ -19,7 +19,7 @@ public class Main {
 		System.out.println("\n------------\n");
 		poupanca.imprimirExtrato();
 
-		cc.depositar(-100);
+		cc.depositar(100);
 		System.out.println("\nEXTRATO APOS DEPOSITO\n");
 		cc.imprimirExtrato();
 		
